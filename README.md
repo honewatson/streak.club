@@ -15,7 +15,7 @@ sudo luarocks install cloud_storage
 sudo luarocks install lapis-annotate
 sudo luarocks install lapis-exceptions
 sudo luarocks install moonscript
-sudo luarocks  install bcrypt
+sudo luarocks install bcrypt
 sudo luarocks install web_sanitize
 ```
 
